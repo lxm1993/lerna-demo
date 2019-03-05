@@ -12,7 +12,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "f37ec99c6b97b8391d893e4738a8ca0f91838f19",
+  "gitHead": "9329bf793fb1941c05ae2d5e193f664e0d8dd3b0",
   "devDependencies": {
     "prettier": "^1.16.4"
   }
