@@ -2,7 +2,10 @@
   "name": "package1",
   "version": "0.1.2",
   "description": "",
-  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lxm1993/lerna-demo.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,5 +15,5 @@
   "devDependencies": {
     "fs-extra": "^7.0.1"
   },
-  "gitHead": "29bcd8c35c7e1210b27a68503bfae58727c196b4"
+  "gitHead": "b16953661addc627980d72a52c98f3f58f770f19"
 }
